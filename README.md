@@ -6,6 +6,12 @@ Aquest repositori conté un petit projecte d’anàlisi i modelatge utilitzant e
 * **`cas_kaggle_classificacio.ipynb`** → models de Classificació per predir la categoria d’obesitat sense distància entre les categories.
 * **`cas_kaggle_regressio.ipynb`** → models de regressió per predir arrodonint les categories d'obesitat amb ordre i mateixa distància.
 
+A més, el repositori inclou un **informe** i una **presentació** del projecte:
+
+* **`InfluenciaHabitsPesCorporal_Informe.pdf`**
+
+* **`InfluenciaHabitsPesCorporal_Presentacio.pdf`**
+
 ---
 
 ## Estructura del repositori
@@ -15,6 +21,8 @@ Aquest repositori conté un petit projecte d’anàlisi i modelatge utilitzant e
 ├── ObesityDataSet.csv
 ├── cas_kaggle_classificacio.ipynb
 ├── cas_kaggle_regressio.ipynb
+├── InfluenciaHabitsPesCorporal_Informe.pdf
+├── InfluenciaHabitsPesCorporal_Presentacio.pdf
 └── README.md
 ```
 
